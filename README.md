@@ -2,7 +2,7 @@
 **Escape from Tarkov - Utility app**                    
 *uses the tarkov-market API to get game information for market searching, and in future, quests, hideout optimization and more*
 **using:**
-> curl 7.74.0
+> curl 7.74.0           
 > rapidjson
 
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
