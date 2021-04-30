@@ -2,6 +2,9 @@
 **Escape from Tarkov - Utility app**                    
 *uses the tarkov-market API to get game information for market searching, and in future, quests, hideout optimization and more*     
 
+**NOTE**
+University work is a priority for me obviously so this project is depreciated currently. might come back to it later if i return to playing the game.
+
 ![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
 
 **using:**
