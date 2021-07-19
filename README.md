@@ -1,24 +1,19 @@
+# Escape from Tarkov - Utility app
+uses the tarkov-market API to get game information for market searching, and in future, quests, hideout optimization and more
 
-**Escape from Tarkov - Utility app**                    
-*uses the tarkov-market API to get game information for market searching, and in future, quests, hideout optimization and more*     
-
-**NOTE**
-University work is a priority for me obviously so this project is depreciated currently. might come back to it later if i return to playing the game.
-
-![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)
-
-**using:**
-> curl 7.74.0           
-> rapidjson
-
-**screenshots**
 > ![example one](https://i.imgur.com/BvOURru.png)
 > ![example two](https://i.imgur.com/0dDm0Pr.png)
 
-**update log**
-> **Alpha v1.0** - Initial build, still very basic, alot needs to be added.
+#### Project Background ####
+Escape from Tarkov is a multiplayer first-person loot and shooter in development by Battlestate Games. Items obtained in-game can be put up for sale to other players for varying prices. The objective of the app is to be able to quickly search market prices for items whist in-game.
 
-**future**
-> - Ammunition tab - shows information about all different types of bullets.
-> - Loadout creator - create a loadout with a unique GUI and view the total price, save loadouts to view later.
-> - Price guessing game - a Higher / Lower game to guess prices on items, to strengthen your ability to identify prices on the go.
+#### Project Future ####
+Currently the project is depreciated, as university studies are more important, and i have lost some interest in the game. If i ever came back to the game, this project may be revived.
+
+#### Languages / Interfaces ####
+C++, Qt Framework, curl 7.74.0, rapidjson, tarkov-market (paid api)
+
+#### References ####
+[tarkov-market API](https://tarkov-market.com/dev/api "tarkov-market API")  
+[Qt Framework](https://www.qt.io "Qt Framework")  
+
